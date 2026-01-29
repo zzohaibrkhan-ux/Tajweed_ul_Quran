@@ -304,8 +304,8 @@ export const tajweedContent = {
     },
     {
       id: "waqf-symbols",
-      title: "وقف و ابتدائے",
-      subtitle: "Pausing and Starting",
+      title: "وقف کی علامات",
+      subtitle: "waqf-symbols",
       icon: "Pause",
       order: 7,
       sections: [
