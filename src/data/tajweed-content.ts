@@ -4,7 +4,7 @@ export const tajweedContent = {
   meta: {
     title: "تجوید القرآن",
     subtitle: "Tajweed-ul-Quran - Rules of Quran Recitation",
-    description: "A comprehensive guide to the rules of Tajweed for proper Quranic recitation"
+    description: "A comprehensive guide to the rules of Tajweed for Quranic recitation"
   },
   chapters: [
     {
