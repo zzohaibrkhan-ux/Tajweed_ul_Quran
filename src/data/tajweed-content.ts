@@ -303,81 +303,7 @@ export const tajweedContent = {
       ]
     },
     {
-      id: "mim-sakiven",
-      title: "میمv ساکنہ",
-      subtitle: "Mim Sakveinah",
-      icon: "M",
-      order: 6,
-      sections: [
-        {
-          id: "what-is-mim-sakin",
-          title: "میم ساکنہ کیا ہے؟",
-          subtitle: "What is Mim Sakinah?",
-          content: [
-            "میم ساکنہ وہ میم ہے جس پر سکت ہو۔",
-            "میم ساکنہ کے تین احکام ہیں۔",
-            "یہ احکام بھی اس کے بعد آنے والے حروف پر منحصر ہیں۔"
-          ],
-          notes: []
-        },
-        {
-          id: "mim-ahkam",
-          title: "میم ساکنہ کے احکام",
-          subtitle: "Rules of Mim Sakinah",
-          content: [
-            "الاظہار الشفوی: میم کے بعد میم",
-            "الادغام الشفوی: میم کے بعد ب",
-            "الاخفاء الشفوی: میم کے بعد ب"
-          ],
-          notes: [
-            "اظہار میں میم ساکنہ کو صاف پڑھا جاتا ہے",
-            "ادغام میں غنہ کے ساتھ پڑھا جاتا ہے",
-            "اخفاء میں غنہ کے ساتھ پوشیدہ طور پر پڑھا جاتا ہے"
-          ]
-        }
-      ]
-    },
-    {
-      id: "madd",
-      title: "مد",
-      subtitle: "Madd (Prolongation)",
-      icon: "Clock",
-      order: 6,
-      sections: [
-        {
-          id: "what-is-madd",
-          title: "مد کیا ہے؟",
-          subtitle: "What is Madd?",
-          content: [
-            "مد یعنی آواز کا طویل کرنا۔",
-            "مد کے مختلف اقسام ہیں۔",
-            "مد کی مدت مختلف حالات میں مختلف ہوتی ہے۔"
-          ],
-          notes: []
-        },
-        {
-          id: "madd-types",
-          title: "مد کے اقسام",
-          subtitle: "Types of Madd",
-          content: [
-            "المد الطبيعي: دو الفاظ کے درمیان",
-            "المد المتصل: آیت کے آخر میں",
-            "المد المنفصل: دو الفاظ میں",
-            "المد العارض: وقف کے وقت",
-            "المد اللازم: ہمیشہ پڑھا جائے"
-          ],
-          notes: [
-            "مد الطبيعي: 1 الیف / 2 عدد",
-            "مد المتصل: 4-6 الیف / 4-5 عدد",
-            "مد المنفصل: 2-4 الیف / 4-5 عدد",
-            "مد العارض: 2-4-6 الیف / 2-4-6 عدد",
-            "مد اللازم: 6 الیف"
-          ]
-        }
-      ]
-    },
-    {
-      id: "waqf2",
+      id: "waqf-symbols",
       title: "وقف و ابتدائے",
       subtitle: "Pausing and Starting",
       icon: "Pause",
@@ -410,37 +336,7 @@ export const tajweedContent = {
           notes: []
         }
       ]
-    },
-    {
-      id: "hamzah",
-      title: "ہمزہ",
-      subtitle: "Hamzah",
-      icon: "A",
-      order: 8,
-      sections: [
-        {
-          id: "what-is-hamzah",
-          title: "ہمزہ کیا ہے؟",
-          subtitle: "What is Hamzah?",
-          content: [
-            "ہمزہ ایک ایسا حرف ہے جو مختلف طریقوں سے لکھا جاتا ہے۔",
-            "ہمزہ قطع، ہمزہ وصل، وغیرہ۔",
-            "ہر قسم کا اپنا قانون ہے۔"
-          ],
-          notes: []
-        },
-        {
-          id: "hamzah-types",
-          title: "ہمزہ کے اقسام",
-          subtitle: "Types of Hamzah",
-          content: [
-            "ہمزہ قطع: یہاں ضرور پڑھا جاتا ہے",
-            "ہمزہ وصل: صرف ابتدا میں پڑھا جاتا ہے",
-            "تاء مفتوحہ، تاء مربوطة، ہاء تانیث"
-          ],
-          notes: []
-        }
-      ]
+
     }
   ]
 } as const;
