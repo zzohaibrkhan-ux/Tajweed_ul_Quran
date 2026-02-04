@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "جنت کی سیر",
+    "subtitle": "Jannat ki sair",
+    "description": "Learn about jannat ki sair"
+  },
+  "chapters": [
+    {
+      "id": "introduction",
+      "title": "جنت کی سیر",
+      "subtitle": "Introduction",
+      "icon": "BookOpen",
+      "order": 1,
+      "sections": [
+        {
+          "id": "Jannat ki Sair",
+          "title": "جنت کی سیر",
+          "subtitle": "Jannat ki sair",
+          "content": [
+          ],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}
